@@ -1,7 +1,3 @@
-# E-commerce Selenium Test
-
-This repository contains a Selenium test script for automating the flow on an e-commerce website.
-
 ## Instructions
 
 1. Install Python and Pip.

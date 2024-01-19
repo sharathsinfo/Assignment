@@ -1,10 +1,9 @@
 ## Instructions
-
 1. Install Python and Pip.
 2. Install Selenium: `pip install selenium`.
 3. Download the ChromeDriver executable and add its location to your system PATH.
-4. Clone the repository: `git clone https://github.com/your-username/ecommerce-selenium-test.git`.
-5. Navigate to the project directory: `cd ecommerce-selenium-test`.
+4. Clone the repository: `https://github.com/sharathsinfo/Assignment/blob/main/ecommerce_test.py`.
+5. Navigate to the project directory: `cd assignment`.
 6. Run the test script: `python ecommerce_test.py`.
 
 ## Notes

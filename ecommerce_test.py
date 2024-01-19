@@ -1,4 +1,4 @@
-# ecommerce_test.py code get started 
+# ecommerce_test.py code get started
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
